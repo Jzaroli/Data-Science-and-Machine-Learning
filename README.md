@@ -1,4 +1,4 @@
-# Data-Science and Machine Learning
+# Data Science and Machine Learning
 This repo houses any DS and ML projects.  
 Overview:
   
