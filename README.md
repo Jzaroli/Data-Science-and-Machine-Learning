@@ -9,3 +9,6 @@ Overview:
 * Multiple Linear Regression (MLR): Predicting Property Values in Cook County, IL.
   * Part 1: Exploratory Data Analysis
   * Part 2: Models - feature fitting, tuning, scoring, etc.
+
+# Neurosymbolic AI System for Loan Underwriting:
+* Accurately vetting a loan candidate is a complex and risky process. Many factors play into approving a loan, opening the chance for errors in judgement with future defaulters. A hybrid AI model is the perfect architecture for mitigating loan default risks and providing much needed clarity to both parties. A logistic regression machine learning model predicts the probability of default for an applicant. An added ontology and rule based layer approves or denies the applicant. A RAG pipeline adds domain intelligence. The final output is processed by an LLM, returning a concise summary of the candidate’s risk profile and application. This app combines all of these layers in an easy to use web application.
