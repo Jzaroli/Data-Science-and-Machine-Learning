@@ -1,5 +1,5 @@
 # Data Science and Machine Learning
-This repo houses any DS and ML projects.  
+This repo houses DS and ML projects.  
 Overview:
   
 # Data Analysis:
