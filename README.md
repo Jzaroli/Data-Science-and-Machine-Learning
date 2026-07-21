@@ -13,3 +13,9 @@ Overview:
 # Neurosymbolic AI System for Loan Underwriting:
 * Project Moved: https://github.com/Jzaroli/Neurosymbolic-AI-Loan-Underwriting
 * Accurately vetting a loan candidate is a complex and risky process. Many factors play into approving a loan, opening the chance for errors in judgement with future defaulters. A hybrid AI model is the perfect architecture for mitigating loan default risks and providing much needed clarity to both parties. A logistic regression machine learning model predicts the probability of default for an applicant. An added ontology and rule based layer approves or denies the applicant. A RAG pipeline adds domain intelligence. The final output is processed by an LLM, returning a concise summary of the candidate’s risk profile and application. This app combines all of these layers in an easy to use web application.
+
+# Iris Flower Least Squares Classifier 
+
+* Built a three class linear classifier from scratch using least squares linear and matrix algebra on the UCI Iris dataset.   
+* Formulated class-wise target vectors and linear decisions without ML frameworks.  
+* Achieved ~84.7% multi-class classification accuracy across flower species.
