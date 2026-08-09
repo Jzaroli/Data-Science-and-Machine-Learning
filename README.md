@@ -19,3 +19,9 @@ Overview:
 * Built a three class linear classifier from scratch using least squares linear and matrix algebra on the UCI Iris dataset.   
 * Formulated class-wise target vectors and linear decisions without ML frameworks.  
 * Achieved ~84.7% multi-class classification accuracy across flower species.
+
+# Decision Trees:  
+A review of Géron's chapter on Decision Trees in "Hands-On Machine Learning with Scikit-Learn and PyTorch", revised 1st edition, 2026.
+  
+# Random Forests:  
+A review of Géron's chapter on Random Forests in "Hands-On Machine Learning with Scikit-Learn and PyTorch", revised 1st edition, 2026.
